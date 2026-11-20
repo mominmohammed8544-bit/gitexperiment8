@@ -1,0 +1,3 @@
+Name = mohammed momin
+usn = 1gc25cs042
+section = a
